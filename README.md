@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Sobre Mim<br>Sou desenvolvedor de sistemas recém-formado em Análise e Desenvolvimento de Sistemas pelo Senai de Vitória, ES. Tenho uma paixão por tecnologia, sempre buscando expandir meus conhecimentos e habilidades em desenvolvimento de software e modelagem 3D. Possuo experiência em algumas linguagens e frameworks, como Python, PHP + Laravel, HTML, CSS, MySQL e ferramentas como Blender para modelagem 3D.<br><br>🚀 Habilidades Técnicas<br>Linguagens de Programação:<br>Python, PHP, MySQL<br>Linguagens de marcação: <br>HTML, CSS<br>Frameworks: <br>Laravel<br>Ferramentas:<br>Git, GitHub, Blender<br><br>🌱 O que estou aprendendo no momento?<br>Atualmente, estou aprofundando meus conhecimentos em automação industrial e também explorando novas tecnologias, como Python para o desenvolvimento de serviços back-end.<br><br>📫 Como me encontrar?<br>LinkedIn: Rhuan Bryan <br>GitHub: RhuanBryan <br>E-mail: rhuanbryan545@gmail.com<br><br>💼 Projetos em Destaque<br>Projeto de TCC - Site para Contratação de Advogados<br>Descrição: Projeto desenvolvido em grupo como parte do meu TCC, com o objetivo de facilitar a contratação de advogados por meio de uma plataforma online. Utilizamos PHP, JavaScript, Python, MySQL e o framework Laravel. Também integramos uma API de CEP para otimizar a localização de advogados e clientes, além de utilizarmos o Figma para prototipagem e design da interface.<br><br>Projeto de RPG em Java<br>Descrição: Jogo de RPG baseado em texto desenvolvido como parte de uma atividade do meu curso. O projeto foi escrito em Java e explora conceitos de lógica de programação, controle de fluxo e manipulação de dados.</p>
+<p align="left">👨‍💻 Sobre Mim<br>Sou desenvolvedor de sistemas recém-formado em Análise e Desenvolvimento de Sistemas pelo Senai de Vitória, ES. Tenho uma paixão por tecnologia, sempre buscando expandir meus conhecimentos e habilidades em desenvolvimento de software e modelagem 3D. Possuo experiência em algumas linguagens e frameworks, como Python, PHP + Laravel, HTML, CSS, MySQL e ferramentas como Blender para modelagem 3D.<br><br>🚀 Habilidades Técnicas<br>Linguagens de Programação:<br>Python, PHP, MySQL<br>Linguagens de marcação: <br>HTML, CSS<br>Frameworks: <br>Laravel<br>Ferramentas:<br>Git, GitHub, Blender<br><br>🌱 O que estou aprendendo no momento?<br>Atualmente, estou aprofundando meus conhecimentos em automação industrial e também explorando novas tecnologias, como Python para o desenvolvimento de serviços back-end.<br><br>📫 Como me encontrar?<br>LinkedIn: Rhuan Bryan <br>E-mail: rhuanbryan545@gmail.com<br><br>💼 Projetos em Destaque<br>Projeto de TCC - Site para Contratação de Advogados<br>Descrição: Projeto desenvolvido em grupo como parte do meu TCC, com o objetivo de facilitar a contratação de advogados por meio de uma plataforma online. Utilizamos PHP, JavaScript, Python, MySQL e o framework Laravel. Também integramos uma API de CEP para otimizar a localização de advogados e clientes, além de utilizarmos o Figma para prototipagem e design da interface.<br><br>Projeto de RPG em Java<br>Descrição: Jogo de RPG baseado em texto desenvolvido como parte de uma atividade do meu curso. O projeto foi escrito em Java e explora conceitos de lógica de programação, controle de fluxo e manipulação de dados.</p>
 
 ###
 
@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
 ###
@@ -31,14 +33,16 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://youtube.com/@rhuanbryan466?si=s1Ci9lLqoibdFn2j" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/rhuandev_?igsh=MXY2dWxhODY5OXB4aw==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rhuan-bryan-0b54a525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/RhuanBryan/RhuanBryan/output/snake.svg" alt="Snake animation" />
 
 ###
