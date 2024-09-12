@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! Eu sou o Rhuan Bryan! 👋</h1>
+<h1 align="center">Hello, World! Eu sou o Rhuan Bryan! 👋</h1>
 
 ###
 
