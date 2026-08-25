@@ -71,7 +71,7 @@ A aplicação tem como objetivo facilitar a busca e contratação de advogados p
 
 O projeto envolveu o desenvolvimento da aplicação, integração com banco de dados, utilização de APIs e construção da interface da plataforma.
 
-🔗 **[Ver repositório](https://github.com/davidvnieto/Legaleasy)**
+⭐ **[Ver repositório](https://github.com/davidvnieto/Legaleasy)**
 
 ---
 
@@ -85,7 +85,7 @@ O projeto foi desenvolvido com Java e teve como objetivo aplicar conceitos de l�
 
 - Java
 
-🔗 **[Ver repositório](https://github.com/RhuanBryan/Clerk)**
+⭐ **[Ver repositório](https://github.com/RhuanBryan/Clerk)**
 
 ---
 
@@ -98,9 +98,7 @@ SENAI - Vitória, ES
 
 ## 📫 Contato
 
-📧 **E-mail:** rhuanbryan545@gmail.com
-
-💼 **LinkedIn:** [Rhuan Bryan](https://www.linkedin.com/in/rhuan-bryan-0b54a525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhuanbryan545@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_LINKEDIN)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](LINK_DO_YOUTUBE)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](LINK_DO_INSTAGRAM)
 
 ---
 
