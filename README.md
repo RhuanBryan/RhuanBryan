@@ -1,48 +1,110 @@
-<h1 align="center">Hello, World! Eu sou o Rhuan Bryan! 👋</h1>
+# Hello, World! Eu sou o Rhuan Bryan 👋
 
-###
+### Desenvolvedor Full Stack 💻
 
-<p align="left">👨‍💻 Sobre Mim<br>Sou desenvolvedor de sistemas recém-formado em Análise e Desenvolvimento de Sistemas pelo Senai de Vitória, ES. Tenho uma paixão por tecnologia, sempre buscando expandir meus conhecimentos e habilidades em desenvolvimento de software e modelagem 3D. Possuo experiência em algumas linguagens e frameworks, como Python, PHP + Laravel, HTML, CSS, MySQL e ferramentas como Blender para modelagem 3D.<br><br>🚀 Habilidades Técnicas<br>Linguagens de Programação:<br>Python, PHP, MySQL<br>Linguagens de marcação: <br>HTML, CSS<br>Frameworks: <br>Laravel<br>Ferramentas:<br>Git, GitHub, Blender<br><br>🌱 O que estou aprendendo no momento?<br>Atualmente, estou aprofundando meus conhecimentos em automação industrial e também explorando novas tecnologias, como Python para o desenvolvimento de serviços back-end.<br><br>📫 Como me encontrar?<br>LinkedIn: Rhuan Bryan <br>E-mail: rhuanbryan545@gmail.com<br><br>💼 Projetos em Destaque<br>Projeto de TCC - Site para Contratação de Advogados<br>Descrição: Projeto desenvolvido em grupo como parte do meu TCC, com o objetivo de facilitar a contratação de advogados por meio de uma plataforma online. Utilizamos PHP, JavaScript, Python, MySQL e o framework Laravel. Também integramos uma API de CEP para otimizar a localização de advogados e clientes, além de utilizarmos o Figma para prototipagem e design da interface.<br><br>Projeto de RPG em Java<br>Descrição: Jogo de RPG baseado em texto desenvolvido como parte de uma atividade do meu curso. O projeto foi escrito em Java e explora conceitos de lógica de programação, controle de fluxo e manipulação de dados.</p>
+Sou desenvolvedor de software formado em **Análise e Desenvolvimento de Sistemas pelo SENAI de Vitória - ES**.
 
-###
+Tenho experiência acadêmica e prática no desenvolvimento de aplicações web, trabalhando com tecnologias como **PHP, Laravel, Python, JavaScript, HTML, CSS e MySQL**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-</div>
+Busco oportunidades na área de desenvolvimento de software, com foco em **desenvolvimento Full Stack**, contribuindo na construção de aplicações eficientes, funcionais e bem estruturadas.
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RhuanBryan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RhuanBryan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 👨‍💻 Sobre mim
 
-###
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 💻 Foco em desenvolvimento Full Stack
+- 🌐 Experiência com desenvolvimento de aplicações web
+- 🐘 Experiência com PHP e Laravel
+- 🐍 Experiência com Python
+- 🗄️ Conhecimentos em MySQL
+- 🔧 Utilização de Git e GitHub
+- 🚀 Em busca de uma oportunidade profissional na área de desenvolvimento
 
-<div align="center">
-  <a href="https://youtube.com/@rhuanbryan466?si=s1Ci9lLqoibdFn2j" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/rhuandev_?igsh=MXY2dWxhODY5OXB4aw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rhuan-bryan-0b54a525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 🛠️ Tecnologias
+
+### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Back-end
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Banco de dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Projetos
+
+### ⚖️ Plataforma para Contratação de Advogados
+
+Projeto desenvolvido em grupo como Trabalho de Conclusão de Curso.
+
+A aplicação tem como objetivo facilitar a busca e contratação de advogados por meio de uma plataforma web.
+
+**Tecnologias utilizadas:**
+
+- PHP
+- Laravel
+- Python
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- API de CEP
+- Figma
+
+O projeto envolveu o desenvolvimento da aplicação, integração com banco de dados, utilização de APIs e construção da interface da plataforma.
+
+🔗 **[Ver repositório](https://github.com/davidvnieto/Legaleasy)**
+
+---
+
+### 🎮 RPG em Java
+
+Jogo de RPG baseado em texto desenvolvido durante a formação em Análise e Desenvolvimento de Sistemas.
+
+O projeto foi desenvolvido com Java e teve como objetivo aplicar conceitos de lógica de programação, estruturas de controle, manipulação de dados e organização de código.
+
+**Tecnologia principal:**
+
+- Java
+
+🔗 **[Ver repositório](https://github.com/RhuanBryan/Clerk)**
+
+---
+
+## 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas**  
+SENAI - Vitória, ES
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** rhuanbryan545@gmail.com
+
+💼 **LinkedIn:** [Rhuan Bryan](https://www.linkedin.com/in/rhuan-bryan-0b54a525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+## 🚀 Objetivo
+
+Busco minha primeira oportunidade profissional na área de desenvolvimento de software, onde possa aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo como desenvolvedor Full Stack.
+
